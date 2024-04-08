@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133227485400",
+    "project_id": "flutterflavors-5d482",
+    "storage_bucket": "flutterflavors-5d482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133227485400:android:6f1649d7f63b949658dfad",
+        "android_client_info": {
+          "package_name": "com.example.flevourssetup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADw6EgpCWqe8qaBNbAHxgXRcjB-RVaVuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133227485400:android:26f3769c83a23faf58dfad",
+        "android_client_info": {
+          "package_name": "com.example.flevourssetup.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADw6EgpCWqe8qaBNbAHxgXRcjB-RVaVuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
